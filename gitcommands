@@ -44,3 +44,6 @@ git status
 git add gamana1
 git commit -m "file adding"
 git push
+
+gamana
+parnika

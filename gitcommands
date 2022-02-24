@@ -44,9 +44,4 @@ git status
 git add gamana1
 git commit -m "file adding"
 git push
-<<<<<<< HEAD
-=======
-
-gamana
-parnika
->>>>>>> parent of 7fe43e9 (Revert "modified")
+git merge --abort
